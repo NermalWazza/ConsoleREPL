@@ -1,4 +1,6 @@
-﻿# Test if git active
+﻿// Program.cs
+// A simple Text REPL (Read-Eval-Print Loop) application in C#
+//
 
 using System;
 using System.Threading;
