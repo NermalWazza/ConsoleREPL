@@ -1,0 +1,15 @@
+C:\GFS\PRJ\ConsoleREPL\bin\Debug\net9.0\ConsoleREPL.exe
+C:\GFS\PRJ\ConsoleREPL\bin\Debug\net9.0\ConsoleREPL.deps.json
+C:\GFS\PRJ\ConsoleREPL\bin\Debug\net9.0\ConsoleREPL.runtimeconfig.json
+C:\GFS\PRJ\ConsoleREPL\bin\Debug\net9.0\ConsoleREPL.dll
+C:\GFS\PRJ\ConsoleREPL\bin\Debug\net9.0\ConsoleREPL.pdb
+C:\GFS\PRJ\ConsoleREPL\obj\Debug\net9.0\ConsoleREPL.GeneratedMSBuildEditorConfig.editorconfig
+C:\GFS\PRJ\ConsoleREPL\obj\Debug\net9.0\ConsoleREPL.AssemblyInfoInputs.cache
+C:\GFS\PRJ\ConsoleREPL\obj\Debug\net9.0\ConsoleREPL.AssemblyInfo.cs
+C:\GFS\PRJ\ConsoleREPL\obj\Debug\net9.0\ConsoleREPL.csproj.CoreCompileInputs.cache
+C:\GFS\PRJ\ConsoleREPL\obj\Debug\net9.0\ConsoleREPL.sourcelink.json
+C:\GFS\PRJ\ConsoleREPL\obj\Debug\net9.0\ConsoleREPL.dll
+C:\GFS\PRJ\ConsoleREPL\obj\Debug\net9.0\refint\ConsoleREPL.dll
+C:\GFS\PRJ\ConsoleREPL\obj\Debug\net9.0\ConsoleREPL.pdb
+C:\GFS\PRJ\ConsoleREPL\obj\Debug\net9.0\ConsoleREPL.genruntimeconfig.cache
+C:\GFS\PRJ\ConsoleREPL\obj\Debug\net9.0\ref\ConsoleREPL.dll
