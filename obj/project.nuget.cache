@@ -1,8 +1,53 @@
 {
   "version": 2,
-  "dgSpecHash": "8YFr/AaVcFs=",
-  "success": true,
+  "dgSpecHash": "0X9VJsMHtEU=",
+  "success": false,
   "projectFilePath": "C:\\GFS\\PRJ\\ConsoleREPL\\ConsoleREPL.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.NETCore.App.Ref. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "projectPath": "C:\\GFS\\PRJ\\ConsoleREPL\\ConsoleREPL.csproj",
+      "filePath": "C:\\GFS\\PRJ\\ConsoleREPL\\ConsoleREPL.csproj",
+      "libraryId": "Microsoft.NETCore.App.Ref",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.WindowsDesktop.App.Ref. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "projectPath": "C:\\GFS\\PRJ\\ConsoleREPL\\ConsoleREPL.csproj",
+      "filePath": "C:\\GFS\\PRJ\\ConsoleREPL\\ConsoleREPL.csproj",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.AspNetCore.App.Ref. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "projectPath": "C:\\GFS\\PRJ\\ConsoleREPL\\ConsoleREPL.csproj",
+      "filePath": "C:\\GFS\\PRJ\\ConsoleREPL\\ConsoleREPL.csproj",
+      "libraryId": "Microsoft.AspNetCore.App.Ref",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.NETCore.App.Host.win-x64. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "projectPath": "C:\\GFS\\PRJ\\ConsoleREPL\\ConsoleREPL.csproj",
+      "filePath": "C:\\GFS\\PRJ\\ConsoleREPL\\ConsoleREPL.csproj",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
 }
