@@ -1,4 +1,6 @@
-﻿using System;
+﻿# Test if git active
+
+using System;
 using System.Threading;
 
 namespace TextREPL
