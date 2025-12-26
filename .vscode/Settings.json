@@ -1,0 +1,17 @@
+{
+  // General
+  "files.eol": "\n",
+  "editor.formatOnSave": true,
+
+  // Markdown
+  "[markdown]": {
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one",
+    "editor.wordWrap": "on"
+  },
+  "markdownlint.config": {
+    "MD013": false // allow long lines in docs if you prefer
+  },
+
+  // PowerShell
+  "powershell.powerShellDefaultVersion": "Windows PowerShell (x64)"
+}
